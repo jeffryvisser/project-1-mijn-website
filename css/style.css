@@ -1,3 +1,18 @@
-body{
-    background-color: beige;
+.container{
+    display: flex;
+    flex-direction: column;
+}
+header{
+    background-color: aqua;
+    width: 100%;
+}
+nav {
+    background-color:blue;
+    width: 100%
+}
+main {
+    background-color:blueviolet
+}
+footer {
+    background-color: brown;
 }
